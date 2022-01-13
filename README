@@ -1,0 +1,7 @@
+1# simple directory only support simple function to ceate vpc and instance; also include to check docker status;finished;
+   But didn't add checkdocker.sh into cron job.
+
+2# complex derectory support chose two mode eks/vm. the process divided into 3 steps planning, provisioning and deployment; not finished;
+   Didn't start EKS part.
+
+3# Use git action and AWS to support auto deploy.
